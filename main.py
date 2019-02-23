@@ -1,3 +1,4 @@
 #!/bin/bash
 test=test1
-echo $test
+echo "salam"
+echo "Changing 1"
